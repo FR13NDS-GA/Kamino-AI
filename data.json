@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "question": "How to print in python code?",
+        "response": "The code to print text using python: print('Your_Text_Here')"
+    },
+    {
+        "id": 2,
+        "question": "How to say hello in spanish?",
+        "response": "Hello in spanish is: hola"
+    },
+    {
+        "id": 3,
+        "question": "Generate a random example of a paragraph written in french language.",
+        "response": "Voici un example d'un paragraph en français: Une Journée Ensoleillée (Title) | Le soleil brillait haut dans le ciel azur, répandant sa chaleur vivifiante sur la ville animée. Les rues étaient animées par un flot incessant de piétons et de véhicules, chacun vaquant à ses occupations avec une énergie renouvelée. Dans les parcs, les enfants riaient aux éclats, leurs voix mélodieuses se mêlant au doux bruissement des feuilles. Les terrasses des cafés débordaient de clients profitant de l'air printanier, savourant un café ou un verre de vin en observant le spectacle de la vie urbaine. C'était une de ces journées où l'on se sentait simplement heureux d'être en vie, baigné dans la lumière dorée et la promesse d'aventures à venir. (Paragrapgh)"
+    },
+    {
+        "id": 4,
+        "question": "What is a Busen burner?",
+        "response": "A Bunsen burner, named after Robert Bunsen, is a kind of ambient air gas burner used as laboratory equipment; it produces a single open gas flame, and is used for heating, sterilization, and combustion. The gas can be natural gas or a liquefied petroleum gas, such as propane, butane, or a mixture."
+    }
+]
